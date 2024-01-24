@@ -6,9 +6,13 @@ int main(){
 
     int sum = y + x;
 
-    std::cout << y << '\n';
+    std::cout << y << std::endl;
     std::cout << x << '\n';
     std::cout << sum;
 
-    
+    //data types int, double, char, bool, std::string
+    //use std namespace for a srting
+
+    return 0;
+
 }
