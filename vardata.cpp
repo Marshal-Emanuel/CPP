@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main(){
+int main(){ 
     int x; //decaration  
     x=5;//definition
 
