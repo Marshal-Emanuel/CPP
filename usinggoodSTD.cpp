@@ -6,6 +6,6 @@ using std::string;
 using std::endl; 
 
 int main(){
-    string name = "Emanuel";
+    string name = "Emanuel"; 
     cout <<"name is " << name << endl;
 }
