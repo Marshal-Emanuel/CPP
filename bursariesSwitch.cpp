@@ -1,8 +1,7 @@
 #include <iostream>
-#include <string>
-
 using namespace std;
-
+    //eb3.52721.21
+    //Emanuel Marshal Kioko
 int main() {
   string category;
   char catg;
