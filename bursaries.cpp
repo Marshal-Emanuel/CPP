@@ -5,7 +5,6 @@ using namespace std;
     //Emanuel Marshal Kioko
 
 int main(){
-
     string category;
     cout << "|  ***Welcome to the Bursaries program***\n";
     cout << "|  Enter the Student category (Needy, Special, Single, Marginalized, Other)";
@@ -25,4 +24,5 @@ int main(){
     else {
         cout << "~~Invalid category";
     }
+    return 0;
 }
