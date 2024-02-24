@@ -1,0 +1,26 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+ void area(float base, float height);
+ void volume(float base, float height);
+int main(){
+	float base;
+	float height;
+	float hypoteneus;
+	cout << "Enter base\n";
+	cin >> base;
+	cout << "Enter width\n";
+	cin >> height;
+	area(base, height);
+	volume(base, height);
+
+	return 0;
+}
+
+void area(float base, float height){
+	cout <<"The are of the triangle is"<< (base*height)/2 << endl;
+}
+
+void volume(float base, float height){
+	cout <<"The hypotenous is"<< sqrt(144);
+}
